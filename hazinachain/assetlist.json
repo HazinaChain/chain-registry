@@ -42,7 +42,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/hazinachain/images/kumi.png"
         }
       ],
-      "coingecko_id": ""
+      "type_asset": ""
     }
   ]
 }
