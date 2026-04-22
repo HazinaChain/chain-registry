@@ -32,15 +32,14 @@
       "time": "1814400s"
     }
   },
-  "codebase": {
-    "git_repo": "https://github.com/hazinachain/hazinachain",
-    "recommended_version": "v1.0.0",
-    "compatible_versions": ["v1.0.0"],
-    "cosmos_sdk_version": "0.47",
-    "genesis": {
-      "genesis_url": "https://raw.githubusercontent.com/hazinachain/hazinachain/main/genesis.json"
-    }
-  },
+"codebase": {
+  "git_repo": "https://github.com/hazinachain/hazinachain",
+  "recommended_version": "v1.0.0",
+  "compatible_versions": ["v1.0.0"],
+  "genesis": {
+    "genesis_url": "https://raw.githubusercontent.com/hazinachain/hazinachain/main/genesis.json"
+  }
+},
   "peers": {
     "seeds": [],
     "persistent_peers": []
