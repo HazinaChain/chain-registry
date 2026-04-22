@@ -8,6 +8,7 @@
         { "denom": "uhzn", "exponent": 0 },
         { "denom": "HZN", "exponent": 6 }
       ],
+      "type_asset": "sdk.coin",
       "base": "uhzn",
       "name": "Hazina",
       "display": "HZN",
@@ -21,8 +22,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/hazinachain/images/hazinachain.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/hazinachain/images/hazinachain.svg"
         }
-      ],
-      "coingecko_id": ""
+      ]
     },
     {
       "description": "KUMI - the community reward token of HazinaChain",
@@ -30,6 +30,7 @@
         { "denom": "ukumi", "exponent": 0 },
         { "denom": "KUMI", "exponent": 6 }
       ],
+      "type_asset": "sdk.coin",
       "base": "ukumi",
       "name": "Kumi",
       "display": "KUMI",
@@ -41,8 +42,7 @@
         {
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/hazinachain/images/kumi.png"
         }
-      ],
-      "type_asset": ""
+      ]
     }
   ]
 }
