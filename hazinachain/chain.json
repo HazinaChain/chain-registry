@@ -3,6 +3,7 @@
   "chain_name": "hazinachain",
   "status": "live",
   "network_type": "mainnet",
+  "chain_type": "cosmos",
   "pretty_name": "HazinaChain",
   "chain_id": "hazinachain-1",
   "bech32_prefix": "hazina",
@@ -36,13 +37,13 @@
     "recommended_version": "v1.0.0",
     "compatible_versions": ["v1.0.0"],
     "cosmos_sdk_version": "0.47",
-    "consensus": {
-      "type": "cometbft",
-      "version": "0.37"
-    },
     "genesis": {
       "genesis_url": "https://raw.githubusercontent.com/hazinachain/hazinachain/main/genesis.json"
     }
+  },
+  "peers": {
+    "seeds": [],
+    "persistent_peers": []
   },
   "apis": {
     "rpc": [
