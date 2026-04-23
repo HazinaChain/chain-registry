@@ -23,26 +23,6 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/hazinachain/images/hazinachain.svg"
         }
       ]
-    },
-    {
-      "description": "KUMI - the community reward token of HazinaChain",
-      "denom_units": [
-        { "denom": "ukumi", "exponent": 0 },
-        { "denom": "KUMI", "exponent": 6 }
-      ],
-      "type_asset": "sdk.coin",
-      "base": "ukumi",
-      "name": "Kumi",
-      "display": "KUMI",
-      "symbol": "KUMI",
-      "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/hazinachain/images/kumi.png"
-      },
-      "images": [
-        {
-          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/hazinachain/images/kumi.png"
-        }
-      ]
     }
   ]
 }
